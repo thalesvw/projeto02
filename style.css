@@ -52,7 +52,7 @@ h1 {
   font-family: 'Mulish', sans-serif;
   font-size: 49px;
   line-height: 56px;
-  width: 489px;
+  width: 490px;
   font-weight: normal;
   color: #1F1534;
 }
@@ -87,7 +87,6 @@ button {
 
 button:hover {
   background: #4e997f;
-  ;
 }
 
 footer {
